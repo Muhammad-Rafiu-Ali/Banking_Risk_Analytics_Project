@@ -1,9 +1,9 @@
 # 🏦 Banking_Risk_Analytics_Project
-📌 Problem Statement
+#📌 Problem Statement
 
 Develop a basic understanding of risk analytics in banking and financial services and how data can be used to minimize the risk of losing money while lending to customers.
 
-✅ Solution
+#✅ Solution
 
 Built Power BI dashboards integrated with MySQL and Python that help banks:
 
@@ -13,7 +13,7 @@ Predict loan repayment probability
 
 Approve or reject loans based on data-driven decisions
 
-📂 About the Dataset
+#📂 About the Dataset
 
 The dataset contains information about bank and client details. It includes multiple interlinked tables connected via primary and foreign keys:
 
@@ -27,7 +27,7 @@ Investment Advisor
 
 Period
 
-📊 Dashboard Insights
+#📊 Dashboard Insights
 
 Total loan amount by investor
 
@@ -39,7 +39,7 @@ Nationality-wise loan statistics
 
 Deposits & account-type analysis
 
-📌 Conclusion
+#📌 Conclusion
 
 Power BI dashboards are powerful tools for risk analytics in banking, enabling data-driven strategies, effective loan management, and reduced financial risks.
 
@@ -52,3 +52,8 @@ Compare private vs public bank client bases
 Nationality-based insights for better policy-making
 
 Investor and account-type-based financial analysis
+
+#  Screenshots / Demos
+Show what the dashboard looks like. 
+Example: (https://github.com/Muhammad-Rafiu-Ali/MetroMart_Sales_Dashboard/blob/main/MetroMart%20Sales%20Dashboard.pdf)
+
